@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="imgWidth">
+        <item>64</item>
+    </attr>
+    <attr name="imgHeight">
+        <item>64</item>
+    </attr>
+    <attr name="imgSrc">
+        <item>1</item>
+    </attr>
+    <attr name="imgSrc1">
+        <item>1</item>
+    </attr>
+    <attr name="imgSrc2">
+        <item>1</item>
+    </attr>
+    <attr name="imgWidth2">
+        <item>64</item>
+    </attr>
+    <attr name="imgHeight2">
+        <item>64</item>
+    </attr>
+</resources>

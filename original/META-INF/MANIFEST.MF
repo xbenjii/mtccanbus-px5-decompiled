@@ -1,0 +1,1230 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-nodpi-v4/n_hangup.png
+SHA1-Digest: xTgJ5NCHqAeSrbzdgu5aGcW5vUs=
+
+Name: res/drawable-nodpi-v4/d_1.png
+SHA1-Digest: uOQsignFKKyNwGiA7TUusz65x5o=
+
+Name: res/drawable-nodpi-v4/right_button1_del.png
+SHA1-Digest: wfC43jh8LlBudDd8kdSOsQTMVgo=
+
+Name: res/drawable-nodpi-v4/n_0.png
+SHA1-Digest: 3L16mMIqdzN+cN+xsjdLF3ZKopk=
+
+Name: res/drawable-nodpi-v4/box2.png
+SHA1-Digest: EvEWg74RhVR811jxbhbDSSsLgn4=
+
+Name: res/drawable-nodpi-v4/middle_button11.png
+SHA1-Digest: pKE+duNJC2/FD9rZ/Oe9hTdz9rM=
+
+Name: res/drawable-nodpi-v4/hot_6level4.png
+SHA1-Digest: Mr09TsKGnDw6ZsedZ7A3HondUq4=
+
+Name: res/drawable-nodpi-v4/warn_icon_29.png
+SHA1-Digest: hhNB7M5Q9Upk+T61NvSWv1+HFDU=
+
+Name: res/layout-1024x600/canbus10and15layout.xml
+SHA1-Digest: vwwoBNTbFSAfp2/SnJWc8bFoc7s=
+
+Name: res/drawable-nodpi-v4/add_hot0.png
+SHA1-Digest: x1fYdAtbdQ6VWUNVBB55EZsSEKU=
+
+Name: res/drawable-nodpi-v4/img_air_loop_a.png
+SHA1-Digest: jMHDVtlVK0IP88Hfs5+YpJN336c=
+
+Name: res/drawable-nodpi-v4/ico_pause.png
+SHA1-Digest: 8MoGCmJk37b5Dd8M+xYdk1NBjHE=
+
+Name: resources.arsc
+SHA1-Digest: nbTKPt6ur5C+kmJWxmksHNzHTt4=
+
+Name: res/drawable-nodpi-v4/img_air_windupdown.png
+SHA1-Digest: +Ucw85N+p+BO4xULhyXUbFjuy6I=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_11.png
+SHA1-Digest: d5v2zzcRQMeQuPLb5yxj0/1hHn8=
+
+Name: res/drawable-nodpi-v4/hot_level5.png
+SHA1-Digest: wOuRMZYB13Dnr5O8FbW6YvYXx7M=
+
+Name: res/drawable-nodpi-v4/img_air_modeup.png
+SHA1-Digest: X4QdHFSdp6GCjkZ+jsVjC+X6ot0=
+
+Name: res/drawable-nodpi-v4/n_dial.png
+SHA1-Digest: A81BNSN7cpm4p4sA1foV0MisRjs=
+
+Name: res/drawable-nodpi-v4/warn_icon_state_2.png
+SHA1-Digest: Eld7QwX6WPPw21HALHcMDeSdlPU=
+
+Name: res/drawable-nodpi-v4/hot_15levelw5.png
+SHA1-Digest: GQOdeb9wFCFrZ265u6I5cwIcl+4=
+
+Name: res/drawable-nodpi-v4/dd_0.png
+SHA1-Digest: jQA9kO/sOS3UKrRdzHy0IJmfM30=
+
+Name: res/drawable/ic_air_control.png
+SHA1-Digest: faxk9XSK4HW46/rG3vDXEI0NciA=
+
+Name: res/drawable-nodpi-v4/n_7.png
+SHA1-Digest: 8yfXIjHmfXP2nHgJbCI/zq0rvt0=
+
+Name: res/drawable-nodpi-v4/hot_8level4.png
+SHA1-Digest: O4ADIv2oXbt5dMX1chvuziBxQVI=
+
+Name: res/drawable-nodpi-v4/img_auto0.png
+SHA1-Digest: BoZQmiq+b8kv37+oubb/EIW0gK0=
+
+Name: res/drawable-nodpi-v4/warn_icon_06.png
+SHA1-Digest: RMMzmMdEvy5VWeZBQ0pgrriv3+M=
+
+Name: res/layout/warning_view_dialog.xml
+SHA1-Digest: N7FvqoxRu2snB1+tbswF/Omlb+k=
+
+Name: res/drawable-nodpi-v4/img_air_ac.png
+SHA1-Digest: c22isFyryWHI2dFI5OwmP7kstsQ=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level6.png
+SHA1-Digest: BoyV9oyonuTsrmwa1fGeWOU0NQA=
+
+Name: res/drawable-nodpi-v4/fun_peaple.png
+SHA1-Digest: VHjp+eXb5hNIL7qjquJNj/8aoe8=
+
+Name: res/drawable-nodpi-v4/b_bottombar.png
+SHA1-Digest: iXmtCTnLO1zM2ii6q3Xj9sm2tGA=
+
+Name: res/drawable-nodpi-v4/warn_icon_14.png
+SHA1-Digest: IcyQs9XVoytMGQ+Fp3iwFW5xsLk=
+
+Name: res/drawable-nodpi-v4/car.png
+SHA1-Digest: zeAay7cUtHEzwHWYw5PxJHBx4PY=
+
+Name: res/drawable-nodpi-v4/dd_7.png
+SHA1-Digest: K4sV0zqCZHmXIBbwUDDVpNd5MH8=
+
+Name: res/drawable-nodpi-v4/middle_button6.png
+SHA1-Digest: 7YdBKjjnP+vbmDZjnhVJKW35/AA=
+
+Name: res/drawable-nodpi-v4/d_8.png
+SHA1-Digest: lj8MOXZsO9xzaxQConShkKcjIZQ=
+
+Name: res/drawable-nodpi-v4/img_air_windupmin.png
+SHA1-Digest: CtpE5KdALwoJMA9CsJhPJ58NcGc=
+
+Name: res/drawable-nodpi-v4/middle_button10_sel.png
+SHA1-Digest: PxN83ehei8Btubjh4AZnR1e5a3c=
+
+Name: res/drawable-nodpi-v4/radar_pressed.png
+SHA1-Digest: yltn2EQtnL5cW3O7tmT5gpicxgY=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: WZFtWV5TcKPDb+uyripP5eob+nk=
+
+Name: res/drawable-nodpi-v4/f.png
+SHA1-Digest: LCDN2znEjTCncEqtos4XF4bWbYs=
+
+Name: res/drawable-nodpi-v4/icon_mic.png
+SHA1-Digest: Wb4RsxOQtxL67qvcmFJ9oIclz18=
+
+Name: res/drawable-nodpi-v4/nor_fun.png
+SHA1-Digest: eibKY2D3TuxG34s2uxToLFg28dY=
+
+Name: res/drawable/b16.xml
+SHA1-Digest: DB03RNdYWTsKb6gXjq/0hLDNHr8=
+
+Name: res/drawable-nodpi-v4/wind_balance1_h.png
+SHA1-Digest: ksiu+wDwtQsezsDyXxryDNhyozQ=
+
+Name: res/anim/tip.xml
+SHA1-Digest: C5upWgefYMWoRLTAXH3o8eVi2ZQ=
+
+Name: res/drawable-nodpi-v4/hot_15level1p1.png
+SHA1-Digest: 7KXwiJPYNjUrlo3HHHD6Q7c8l9g=
+
+Name: res/drawable-nodpi-v4/icon_usb.png
+SHA1-Digest: zEZVaE0eM/joiJAITdzhf5ZcD58=
+
+Name: res/drawable-nodpi-v4/lf_1.png
+SHA1-Digest: 8YDHaXwLms9UJ/R3GM12sKQHkUk=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_03.png
+SHA1-Digest: 7MXEhBcNIXl9BUaNMHqTC60C2xY=
+
+Name: res/drawable-nodpi-v4/btn_warn_nor.png
+SHA1-Digest: H6AabTMPNjcG83ZHl09THKMt62o=
+
+Name: res/drawable/border.xml
+SHA1-Digest: PQH2I+Qk4pfwwXnPHgVLxmaj4fM=
+
+Name: res/drawable/b4.xml
+SHA1-Digest: A3ViUPw3WLnFCPeIt+Ym2W/Elik=
+
+Name: res/drawable-nodpi-v4/wind_asq.png
+SHA1-Digest: jvUBviRqZNO8Hy+CDGqmGS6+TC8=
+
+Name: res/drawable-nodpi-v4/hot_5level0.png
+SHA1-Digest: KxW90fq0F9ppKYdglcytL0wG1O4=
+
+Name: res/drawable-nodpi-v4/img_amb0.png
+SHA1-Digest: DA6loK0M34uxG7iBjOmztTty/7w=
+
+Name: res/drawable-nodpi-v4/box1.png
+SHA1-Digest: L4dDnOqKIm5ZE7wd+S62sISrBrA=
+
+Name: res/drawable-nodpi-v4/n_1.png
+SHA1-Digest: tZ/MElnCfxn9e6fssFHH3StfVm8=
+
+Name: res/drawable-nodpi-v4/btn_right_pressed.png
+SHA1-Digest: ZafCqQi6zki8+FJNIOA9ArrdXIM=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_04.png
+SHA1-Digest: XF6awm91Uy4xtjidulQpZitYUKE=
+
+Name: res/drawable-nodpi-v4/middle_button12.png
+SHA1-Digest: /n1S7wRDCCg9tsKJBv4cNIw5GeQ=
+
+Name: res/drawable-nodpi-v4/middle_button6_sel.png
+SHA1-Digest: LPwyJ4JQa5FmXxVjN9ND5omZMFA=
+
+Name: res/drawable-nodpi-v4/right_button_bac_pre.9.png
+SHA1-Digest: jYcPDnQl6kV2vg5/kyIBQTpofuI=
+
+Name: res/drawable-nodpi-v4/hot_15level1p2.png
+SHA1-Digest: fXvN5iw0EPTDhTULy2qj5Jj2Gl4=
+
+Name: res/drawable-nodpi-v4/add_hot1.png
+SHA1-Digest: XDfdcWWByPbb7Mt3HmMiFFlUJx8=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_10.png
+SHA1-Digest: 9OF6hxuEpNv9gHFiqMr+gJlesyU=
+
+Name: res/drawable-nodpi-v4/img_air_onoff.png
+SHA1-Digest: fb8IUSCpLaVsgUBSg6bAF9JyujI=
+
+Name: res/drawable-nodpi-v4/img_air_windupmindown.png
+SHA1-Digest: RC4i3J1yjP6tIbpN1sERRR/a1qo=
+
+Name: res/drawable-nodpi-v4/hot_level6.png
+SHA1-Digest: zRQn95Kv/wNwfMsF3geKJpecm5g=
+
+Name: res/drawable-nodpi-v4/d_2.png
+SHA1-Digest: Zcy6C65e9MkhbyCVLumqDKZuCNo=
+
+Name: res/drawable-nodpi-v4/warn_icon_21.png
+SHA1-Digest: zl9tqHmENI/pgC2kF9s8Le1X/kk=
+
+Name: res/drawable-nodpi-v4/wind_balance0.png
+SHA1-Digest: etqkeoG4+k6ktpN15c75ViN5/rw=
+
+Name: res/drawable-nodpi-v4/warn_icon_05.png
+SHA1-Digest: OrnOPRm56uKad59dUfEF1DWSUgY=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level7.png
+SHA1-Digest: URQ6hiWcft/6JpYY7QBxSo6mZxo=
+
+Name: res/drawable-nodpi-v4/img_air_bg_pre.9.png
+SHA1-Digest: Kd8ahN4DQjb1kLHUATRSAVHr+xs=
+
+Name: res/drawable-nodpi-v4/warn_icon_22.png
+SHA1-Digest: jZhqZX1T0fijyuUiF2UYgpIB8xw=
+
+Name: res/drawable-nodpi-v4/middle_button9_sel.png
+SHA1-Digest: GY5NYSgruvYIcqsTTcsTDOlLosA=
+
+Name: res/drawable-nodpi-v4/right_button3_sel.png
+SHA1-Digest: Z50R1Bg1/s4x+9pf8rhdHrSzPGI=
+
+Name: res/drawable/b3.xml
+SHA1-Digest: M2rcBqP/5Hb7u/QOUKQaDUAgvd8=
+
+Name: res/drawable-nodpi-v4/safety_1.png
+SHA1-Digest: ieutPYrAgKJYSw+PATKoVfxbxUk=
+
+Name: res/drawable-nodpi-v4/hot_5level1.png
+SHA1-Digest: Mw3I6TojXScASKcLM+i8Wbbo9iI=
+
+Name: res/layout-1024x600/radarlayout_display.xml
+SHA1-Digest: W2wghJYDRvE5RVVO+gvWu1I/zDc=
+
+Name: res/drawable-nodpi-v4/s_right.png
+SHA1-Digest: PwGTp1S6YtMzl8bXH4A00jkD05Q=
+
+Name: res/drawable-nodpi-v4/dd_8.png
+SHA1-Digest: twk8ww6g++aNuu9ktkEJ3q2OKEM=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_09.png
+SHA1-Digest: f7iP5cq34h8nCSyTFfwrKTbEut0=
+
+Name: res/drawable-nodpi-v4/hot_8level3.png
+SHA1-Digest: Y4w8IL+NAV6lgSFphiXvi8d/ye0=
+
+Name: res/drawable-nodpi-v4/bg.png
+SHA1-Digest: iirgCBV56CW1obyOQZ7FFKBqPbI=
+
+Name: res/drawable-nodpi-v4/bg_center.png
+SHA1-Digest: UOjV5gnvvw5x9GGTWIxCqUsHI24=
+
+Name: res/drawable-nodpi-v4/lf_0.png
+SHA1-Digest: TmK7K1UW9OKyETh6oioe7oB5SsQ=
+
+Name: res/drawable-nodpi-v4/hot_6level5.png
+SHA1-Digest: zMuc+3SNhJ0c1M7g2c8xb5kzgzo=
+
+Name: res/drawable-nodpi-v4/middle_button5.png
+SHA1-Digest: hRjZMYsbPnMkj4plFM/kChBi4gc=
+
+Name: res/drawable-nodpi-v4/img_air_seathotright3.png
+SHA1-Digest: 11j5trItLG/J4kzcpnmoyGpaCXI=
+
+Name: res/drawable-nodpi-v4/img_amb1.png
+SHA1-Digest: f1x+uR3ekImVGwvTf7TCef8PHao=
+
+Name: res/drawable-nodpi-v4/img_air_windlevelup.png
+SHA1-Digest: wHxxNEeABto6dWlP0o0vwbv3oWQ=
+
+Name: res/drawable-nodpi-v4/d_7.png
+SHA1-Digest: sqZEBiVUb8kFSX3DGf2TCE6DKqo=
+
+Name: res/drawable-nodpi-v4/n_6.png
+SHA1-Digest: IfcrWmG9xvZ/HYf2jbVelZjWRXQ=
+
+Name: res/drawable-nodpi-v4/middle_button8_sel.png
+SHA1-Digest: leFBI9lbPL0rz5f+gF+1vX57Zo0=
+
+Name: res/drawable-nodpi-v4/img_air_fast.png
+SHA1-Digest: GEEcGMsqIv+gWlv5zz1w8K4E154=
+
+Name: res/drawable-nodpi-v4/warn_icon_19.png
+SHA1-Digest: 7FZQ/wleATBwVHleNPSY3kaaQUo=
+
+Name: res/drawable-nodpi-v4/wind_balance1.png
+SHA1-Digest: kbG5bfsiwwmnp7N19i05JYn+sj8=
+
+Name: res/drawable-nodpi-v4/hot_level3.png
+SHA1-Digest: NZxPgRvBS+1H/VIvUqsJy8Sk7w8=
+
+Name: res/layout/air_control.xml
+SHA1-Digest: w4yyM0+Geyjmyrc+LEVUKC28du4=
+
+Name: res/drawable-nodpi-v4/hot_15levelw3.png
+SHA1-Digest: 3ldURIWJ7f4peMtCaY53A3bM97k=
+
+Name: res/drawable/b6.xml
+SHA1-Digest: bl+0zyio6KX97BlDLjqrMvqi44E=
+
+Name: res/drawable-nodpi-v4/n_9.png
+SHA1-Digest: 1JUNp7Lb5eDXgvutQmc5HY62lpk=
+
+Name: res/drawable-nodpi-v4/d_3.png
+SHA1-Digest: yyhhAKNuNWFKCgJr2To7LgI12+o=
+
+Name: res/drawable-nodpi-v4/img_air_windmindown.png
+SHA1-Digest: KbtatpsQaXJbi/wTeeqSX/iMXvE=
+
+Name: res/drawable-nodpi-v4/hot_15level1p3.png
+SHA1-Digest: MI6k4w3ERIdXFg4/mJ51r2TEY8M=
+
+Name: res/drawable-nodpi-v4/wind_up1.png
+SHA1-Digest: BoHTRo6+Uyzg/ASHPcxX8rVbobo=
+
+Name: res/drawable-nodpi-v4/dual0.png
+SHA1-Digest: qomAlDACCpvYfvUUVXqPLPsiYlM=
+
+Name: res/drawable-nodpi-v4/img_air_seathotleft3.png
+SHA1-Digest: 0FeXBDXwGw+5leq7nC9ursBH7oA=
+
+Name: res/drawable-nodpi-v4/warn_icon_04.png
+SHA1-Digest: XrUoHGxv0NUaDJfoJBIR6YNhoqQ=
+
+Name: res/drawable-nodpi-v4/s_left.png
+SHA1-Digest: lD/d5PNk26jJritBjNzvAJp3tBo=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level0.png
+SHA1-Digest: QghHaWdYpeIQCy1SIla3XMMBv68=
+
+Name: res/drawable-nodpi-v4/hot_6level2.png
+SHA1-Digest: +jl/SpMRNsTF6mLD5C/MRgpXau8=
+
+Name: res/drawable-nodpi-v4/rr_0.png
+SHA1-Digest: xll2wRiIFgkeG3POvIVA5LC3L3M=
+
+Name: res/drawable-nodpi-v4/middle_button1.png
+SHA1-Digest: YkNBPOe70hF3WZ0MW4r6TCJGgiM=
+
+Name: res/drawable/btn_round.xml
+SHA1-Digest: bGkkmboISAXqgm8sDO/IMUTS3sQ=
+
+Name: res/drawable-nodpi-v4/line0.png
+SHA1-Digest: MWyoiYbfrwc7gySYiprUBBbWfp4=
+
+Name: res/drawable-nodpi-v4/aqs.jpg
+SHA1-Digest: J5+g9tMVF0u3lBLOw68MeGSj/0E=
+
+Name: res/drawable-nodpi-v4/d_6.png
+SHA1-Digest: dOcbiTEEoeEbAaNgVqT2dK2caX0=
+
+Name: res/drawable-nodpi-v4/s_next.png
+SHA1-Digest: 5Jglx+yNC4QRQDMVugbH+BF5SyU=
+
+Name: res/drawable/b14.xml
+SHA1-Digest: 1L5ab1K0OPeOY0Remwjb8wKTPUU=
+
+Name: res/drawable-nodpi-v4/middle_button4.png
+SHA1-Digest: JWVhCQpXbSs60Wji0MQXy6FGC6M=
+
+Name: res/drawable-nodpi-v4/hot_15levelw6.png
+SHA1-Digest: sRDszAOeY2hm+vb3Oa7/J9xibX8=
+
+Name: res/drawable-nodpi-v4/hot_8level2.png
+SHA1-Digest: cu9dGcRvQSBLxBGn5HX+cC76MrA=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_01.png
+SHA1-Digest: rnC0eKfeL8T+DtTvOixFmZm8dRI=
+
+Name: res/drawable-nodpi-v4/warn_icon_23.png
+SHA1-Digest: mLZQMDgqHurCFWF+sMc+N0p/++s=
+
+Name: res/drawable-nodpi-v4/right_button2_del.png
+SHA1-Digest: ViXg24nr5OyZfffFjLxSPF9AF0o=
+
+Name: res/drawable-nodpi-v4/warn_icon_31.png
+SHA1-Digest: W+TOv+gED6Advs81BHsyEsMDwUs=
+
+Name: res/layout/airlayout.xml
+SHA1-Digest: Uw5TDyhAxwEwqsNpplA9wap1YkU=
+
+Name: res/drawable-nodpi-v4/safety_0.png
+SHA1-Digest: yFoZ2RsH5WJ0zjBktFKM7sysKp0=
+
+Name: res/drawable-nodpi-v4/img_air_auto.png
+SHA1-Digest: 6VQkRByjaMA6Kwe3O+V1y0BaSRY=
+
+Name: res/drawable-nodpi-v4/hot_5level2.png
+SHA1-Digest: iOC0exMrfWzXKlq4JjTvZiaKdto=
+
+Name: res/drawable-nodpi-v4/rearlock0.png
+SHA1-Digest: X8tZrbONTlX1PFiVUrnBJu8SWyE=
+
+Name: res/drawable-nodpi-v4/img_air_seathotright2.png
+SHA1-Digest: qf8DO/I5KZqgwMszpioB1ElNKG0=
+
+Name: res/drawable-nodpi-v4/bg_r.png
+SHA1-Digest: X/3yxCLF+0uJf93Kbojk8rkAmW4=
+
+Name: res/drawable-nodpi-v4/middle_button3_sel.png
+SHA1-Digest: dtKfGOGJASq2hpKw/eYIBzNeKgY=
+
+Name: res/drawable-nodpi-v4/right_button4_sel.png
+SHA1-Digest: WY9k3lgvBJZqf/aQlQDpe+/Sllg=
+
+Name: res/drawable-nodpi-v4/warn_icon_18.png
+SHA1-Digest: o7Z0PzLMMGKgqpqMxBALfPk4MK0=
+
+Name: res/drawable-nodpi-v4/dd_5.png
+SHA1-Digest: aHzo5B0Er6k7rS+DACM9gurlRNk=
+
+Name: res/drawable-nodpi-v4/wind_down1.png
+SHA1-Digest: hmmlcJOSHPSHsR/k95dTB56gUUQ=
+
+Name: res/drawable-nodpi-v4/hi.png
+SHA1-Digest: y16wCwYRBym13jX8qk31xWlEJRI=
+
+Name: res/drawable-nodpi-v4/obd.png
+SHA1-Digest: ZhbfBMksJbxI6+by1BBoTKXSpMQ=
+
+Name: res/drawable-nodpi-v4/dial_statucallin.png
+SHA1-Digest: GTv6aDybiiH7TfUBGISH7lghNbg=
+
+Name: res/drawable-nodpi-v4/hot_6level3.png
+SHA1-Digest: wCycludQuw1vXIv7i5rWjtUr+Vw=
+
+Name: res/drawable-nodpi-v4/hot_level4.png
+SHA1-Digest: Uq3ZVHklfzdlsyoVT2sSmUPJN8M=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level1.png
+SHA1-Digest: TJINSj+aBYHaB0oJ8MWNeat3tQg=
+
+Name: res/drawable-nodpi-v4/img_air_temp_up.png
+SHA1-Digest: 6h8RxZ9BU2wZ6+d+VsCaCxNJHKQ=
+
+Name: res/layout-1024x600/doorlayout.xml
+SHA1-Digest: C6HQWpOGcswoAY8KdicOaE8lBxU=
+
+Name: res/drawable-nodpi-v4/dual1.png
+SHA1-Digest: qdVtYfALDdNb0n8Agy5/oczbr7Q=
+
+Name: res/drawable-nodpi-v4/n_x.png
+SHA1-Digest: SD1g4WXyl5ctIoPd9s402aoooTY=
+
+Name: res/drawable-nodpi-v4/rear1.png
+SHA1-Digest: LS01zPjJT/HxEGOljFX4ygeGOgc=
+
+Name: res/drawable/btn_rect.xml
+SHA1-Digest: vJIxHq6/BKXGSCpSvO7AXVCa7VI=
+
+Name: res/drawable-nodpi-v4/box3.png
+SHA1-Digest: CnD/7Twjpmsjr3EZBAzgyhRi96w=
+
+Name: res/drawable-nodpi-v4/ico_prev.png
+SHA1-Digest: 1TzTu/LLdPkVuiN/8OPxc1IBvJk=
+
+Name: res/drawable-nodpi-v4/btn_left_normal.png
+SHA1-Digest: oQ+ZYSCz0YFhybODS8gFJvxNPhs=
+
+Name: res/drawable-nodpi-v4/wind_down1_h.png
+SHA1-Digest: AD6E9TYqstmRmRRqBo49CRQDTaA=
+
+Name: res/drawable-nodpi-v4/middle_button11_sel.png
+SHA1-Digest: DYKKFKeDw2k6ZaB+QvQ/3FRDstA=
+
+Name: res/drawable-nodpi-v4/hot_5level3.png
+SHA1-Digest: jthMLJBgpq5WKkqKdMahsbucgGo=
+
+Name: res/drawable-nodpi-v4/middle_button2.png
+SHA1-Digest: c58KaJg67kR7psIs/b2AgMVuABQ=
+
+Name: res/drawable-nodpi-v4/fun_peaple_h.png
+SHA1-Digest: J/XwDaSAKk/VgdJs2GpGgmQcXtc=
+
+Name: res/drawable-nodpi-v4/hot_15levelw4.png
+SHA1-Digest: 8hQTRYl/wVwBph065ZfQCBTe6fY=
+
+Name: res/drawable-nodpi-v4/wind_up0.png
+SHA1-Digest: qo03l9JBuuhoSZy3Eybwp8eRu5U=
+
+Name: res/drawable-nodpi-v4/hot_15level1p4.png
+SHA1-Digest: gZCH6z+u+OoruXJJhMZgcJ2bcp8=
+
+Name: res/drawable-nodpi-v4/img_air_loop_in.png
+SHA1-Digest: fTheCVjP4hP1oS2Px2X3fR66mWo=
+
+Name: res/drawable-nodpi-v4/middle_button2_sel.png
+SHA1-Digest: hwx9BeJ5pLM7wxnJ6t5OeXnunMU=
+
+Name: res/drawable-nodpi-v4/warn_icon_03.png
+SHA1-Digest: mGKArsP7TfECwSJYza3jbKJ4Iik=
+
+Name: res/drawable-nodpi-v4/left_hot_level3.png
+SHA1-Digest: T612tiZyau8Y2p1AX9ma5r7LI8o=
+
+Name: res/drawable-nodpi-v4/warn_icon_30.png
+SHA1-Digest: fpCwgLpbkL93PtcDxHdU7+2RHTo=
+
+Name: res/drawable-nodpi-v4/btn_right_normal.png
+SHA1-Digest: xKaERiatxvktj2pFyFNfTZCcp+s=
+
+Name: res/drawable-nodpi-v4/d_5.png
+SHA1-Digest: jzjvPktHschax44c5EgdXWKH6Bc=
+
+Name: res/drawable-nodpi-v4/hot_15level1p5.png
+SHA1-Digest: A3Xkrm8gQmwDN4j5cpyHQ2EdbF4=
+
+Name: res/layout-1024x600/ajx.xml
+SHA1-Digest: htf8wT2KgH+gJ6kTH6uRYpgpH7c=
+
+Name: res/drawable-nodpi-v4/auto.png
+SHA1-Digest: XQni7xZTolvIiXYMb+2JaZswxzw=
+
+Name: res/drawable-nodpi-v4/acmax0.png
+SHA1-Digest: BzVAfwHI6/zYMUIpQsD+pcez6Qc=
+
+Name: res/drawable-nodpi-v4/middle_input_box.png
+SHA1-Digest: rO7o8jF2mZ4dZ2gJGK8KOXHRk8Q=
+
+Name: res/drawable-nodpi-v4/s_up.png
+SHA1-Digest: z9F/zdjSU09aqw9STYIsp7E40Ps=
+
+Name: res/drawable-nodpi-v4/music_ri.png
+SHA1-Digest: Dxu6H6OF3HcIw5hntxLrVGAxnZI=
+
+Name: res/drawable-nodpi-v4/radar_nor.png
+SHA1-Digest: xu8BGgArytUC5YRTyua2K7P9xYk=
+
+Name: res/drawable-nodpi-v4/wind_down0_h.png
+SHA1-Digest: 7n2M1gFi4Sk6jGXy80M33gu/xMg=
+
+Name: res/drawable-nodpi-v4/bg_tzy2.png
+SHA1-Digest: ZVcXeYJkkxsksEuM1BjZlwDQk+8=
+
+Name: res/drawable-nodpi-v4/img_air_seathotright1.png
+SHA1-Digest: tBF2ytOULjD8nKDHKYBlu99Q7E8=
+
+Name: res/drawable-nodpi-v4/middle_button3.png
+SHA1-Digest: 3Vt0ttoEWJMDUf3xSXGvQnsPYKA=
+
+Name: res/drawable/b15.xml
+SHA1-Digest: 6zJ5KRK/OkBPGTqv/M5lUn3J2iY=
+
+Name: res/drawable-nodpi-v4/n_8.png
+SHA1-Digest: 9XBWtAB7dWvv9KA675b3W6981dI=
+
+Name: res/drawable-nodpi-v4/icon_phone.png
+SHA1-Digest: De2Ys4oDRWhc7xHAFtMt8wQF5gI=
+
+Name: res/drawable-nodpi-v4/warn_icon_24.png
+SHA1-Digest: PWMaGMiaxkETob2BCUpz8nqRFME=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_02.png
+SHA1-Digest: jV5fZvtETCITAr3fXTZUBIafkh8=
+
+Name: res/drawable/b5.xml
+SHA1-Digest: EBbIdJF4fzlsV2rviYLS2jsZjws=
+
+Name: res/layout/doorlayout.xml
+SHA1-Digest: /cSP7RqxPwKoDCx6ipFV53Yc39U=
+
+Name: res/drawable-nodpi-v4/dd_6.png
+SHA1-Digest: xld3AG52iA6PBkTHWXZ4amB9H1o=
+
+Name: res/drawable/btn_right.xml
+SHA1-Digest: xlwpOo+d+422u70wZX9XrqkVuR8=
+
+Name: res/drawable-nodpi-v4/hot_8level1.png
+SHA1-Digest: L7UE0BZM5C2qaR0hrNEDo/9ZOnk=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level2.png
+SHA1-Digest: /OZqBQgu5LEh48lSOkgpakYWdQY=
+
+Name: res/drawable-nodpi-v4/left_hot_level2.png
+SHA1-Digest: AK4Opgh5mewxhKOyf2yupeeIZnQ=
+
+Name: res/drawable-nodpi-v4/small_fun.png
+SHA1-Digest: Qhvo/JYMQGml9GlsEb7vNjaXmJ8=
+
+Name: res/drawable-nodpi-v4/hot_8level7.png
+SHA1-Digest: p2tc8gY350cPdhsQCKSkRjx15Es=
+
+Name: res/drawable-nodpi-v4/btn_warn_sel.png
+SHA1-Digest: YKQT+QxPtmX1wiCyYEt7AgNXg1I=
+
+Name: res/drawable-nodpi-v4/dd_4.png
+SHA1-Digest: FyhIvFCjPH7zIQJYXQgoMiIh3EQ=
+
+Name: res/drawable-nodpi-v4/warn_icon_09.png
+SHA1-Digest: UFcyvhbkKUVeIOVqkfHX154fu6A=
+
+Name: res/drawable-nodpi-v4/warn_icon_10.png
+SHA1-Digest: dYtwXryAixrpj3YsNtY2fEz/ivU=
+
+Name: res/drawable-nodpi-v4/wind_down0.png
+SHA1-Digest: lPz3rwtbKDIOZUrdAI8DsVcWPCg=
+
+Name: res/drawable-nodpi-v4/big_fun_zhuan.png
+SHA1-Digest: YecjcPF7GFothG3OqpmchDHn4Z8=
+
+Name: res/drawable-nodpi-v4/wind12_asq.png
+SHA1-Digest: geKJaitY6dqq6CqTFMSL5s0VcKU=
+
+Name: res/drawable-nodpi-v4/right_button2_sel.png
+SHA1-Digest: uPR6CS3Py6mdu3HpsuAA46a/FQE=
+
+Name: res/drawable/b1.xml
+SHA1-Digest: GwB5OF2zl5GcvkGzYnlBf+wHy+E=
+
+Name: res/drawable-nodpi-v4/hot_5level4.png
+SHA1-Digest: hxxjKHkkkwcIPMrFDRE003XhemE=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_07.png
+SHA1-Digest: Al6n7KkYQlkHUfqfR8IW34bsmhU=
+
+Name: res/layout/canbus_log.xml
+SHA1-Digest: Rm4xAudi1vR0CGL4PBMFgREl1TA=
+
+Name: res/drawable-nodpi-v4/ico_play.png
+SHA1-Digest: fShbnJ1adQ57fO9kCm5zZi1uNo0=
+
+Name: res/drawable-nodpi-v4/warn_icon_02.png
+SHA1-Digest: yopb6M41ofjnA1Qfr/GmPEtqYnU=
+
+Name: res/drawable-nodpi-v4/bg_round.png
+SHA1-Digest: N4b4FDopT5F9EC3nXylr4ssajiY=
+
+Name: res/drawable-nodpi-v4/warn_icon_17.png
+SHA1-Digest: rV5/N5mvPSR8V1ZJ610uBTV+xZs=
+
+Name: res/drawable/number_bac.xml
+SHA1-Digest: Eki2cloChUxkfMPF+TzBmRVznTg=
+
+Name: res/drawable-nodpi-v4/middle_button4_sel.png
+SHA1-Digest: E0Aeb7WgwQEod2teCMVR6CSNKTs=
+
+Name: res/drawable-nodpi-v4/rectbtn_sel.png
+SHA1-Digest: agoh2gAxDw9FqJS+Bl+foIsQ43M=
+
+Name: res/drawable/b13.xml
+SHA1-Digest: qhj1BOLmgLyX1HPk6VRp/4zKbJo=
+
+Name: res/drawable-nodpi-v4/wind_balance0_h.png
+SHA1-Digest: AYonIK2E+wG9MOeCuiIjqNgN2ug=
+
+Name: res/layout-1024x600/air_control.xml
+SHA1-Digest: yY25o2VhGnCYhVlFy8ZR3HEhPeQ=
+
+Name: res/drawable/b8.xml
+SHA1-Digest: sOwfxbwQ3sH6KPWL4c6Xt56Nl1I=
+
+Name: res/drawable-nodpi-v4/s_pre.png
+SHA1-Digest: 1TzTu/LLdPkVuiN/8OPxc1IBvJk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2ph618Um8w5esrmr/RN67uEj4vE=
+
+Name: res/drawable-nodpi-v4/right_hot_level2.png
+SHA1-Digest: RXzRo5YwcD7B8z0eL4/Ens5Zh9E=
+
+Name: res/drawable-nodpi-v4/img_air_seathotleft1.png
+SHA1-Digest: GmcV3iRsdJ1VVpxCzthmSXzPlM4=
+
+Name: res/drawable-nodpi-v4/img_eco1.png
+SHA1-Digest: Ko57k/1bZm/JCXj/rLfgeltGt2s=
+
+Name: res/drawable-nodpi-v4/dot.png
+SHA1-Digest: 6PwXAdEFr+OaZTLApkAWMQbXtyQ=
+
+Name: res/drawable-nodpi-v4/d_4.png
+SHA1-Digest: vsE2qm1ue0TRqDUCCsvXfMLsRDI=
+
+Name: res/drawable-nodpi-v4/img_air_seathotright0.png
+SHA1-Digest: qPGgwQ4wW9TrC7af3hiKpzOXaYM=
+
+Name: res/layout/ajx.xml
+SHA1-Digest: htf8wT2KgH+gJ6kTH6uRYpgpH7c=
+
+Name: res/drawable-nodpi-v4/acmax1.png
+SHA1-Digest: giFwEh96JpUUP4Wfj9y3a9OMCWQ=
+
+Name: res/drawable-nodpi-v4/leftbar.png
+SHA1-Digest: biB5FAuU8CkcHGSL6Fz/L110/Y8=
+
+Name: res/drawable-nodpi-v4/middle_button7_sel.png
+SHA1-Digest: eMDUj8TuXkWoWn/VNb/VBUxrPHY=
+
+Name: res/drawable-nodpi-v4/hot_level2.png
+SHA1-Digest: lOMbJQqRo28F19Oy3C9uztyiz98=
+
+Name: res/drawable-nodpi-v4/btn_round_pressed.png
+SHA1-Digest: JaYuLKg9Av7jMeYWwmdRacLXfRU=
+
+Name: res/drawable-nodpi-v4/hot_15levelw8.png
+SHA1-Digest: gROsElWoc9L144leJAv8ukrUPEA=
+
+Name: res/drawable-nodpi-v4/hot_8level0.png
+SHA1-Digest: qpxJFtKwT9jMK1N0HI1u2V3DlVw=
+
+Name: res/layout/radarlayout.xml
+SHA1-Digest: McKEHPhb9a0rxdnuwepn1/ywN3M=
+
+Name: res/drawable-nodpi-v4/car_1.png
+SHA1-Digest: iO96G6h7ZIs9GKIUOMQDQ9DJ0p8=
+
+Name: res/drawable-nodpi-v4/img_prompt.png
+SHA1-Digest: +N7EjQZSoOAMgLAvUsHtuueDuv0=
+
+Name: res/drawable-nodpi-v4/ajx.png
+SHA1-Digest: 4YYK6vEPnLa92sB7Po6a1WNcR6A=
+
+Name: res/drawable-nodpi-v4/hot_15levelw1.png
+SHA1-Digest: +bEqliICeWQTg+g1+jkaGd605aI=
+
+Name: res/drawable-nodpi-v4/warn_icon_25.png
+SHA1-Digest: CO/9WQ+U7UAbQS6nLz/pdPnEdXI=
+
+Name: res/drawable-nodpi-v4/frontdoor.png
+SHA1-Digest: GWnffea3BRBTiAkD591Kd6f9qC4=
+
+Name: res/drawable-nodpi-v4/hot_8level8.png
+SHA1-Digest: s6g5LaNNlWYlGp6df5sQQgwLtXI=
+
+Name: res/drawable/btn_air_bg.xml
+SHA1-Digest: QfSuv9hSxyr7y9H4Qdz+wQAs4j8=
+
+Name: res/drawable-nodpi-v4/oil.png
+SHA1-Digest: W6zz2VzH186dgsXC0kaSZ/ll3J8=
+
+Name: res/drawable-nodpi-v4/middle_button9.png
+SHA1-Digest: 0G4LnkUnyI7Bd64frjW5lnrrkQU=
+
+Name: res/drawable-nodpi-v4/rr_1.png
+SHA1-Digest: LD2gIEugGEKfW6IurYaxFpcm2wk=
+
+Name: res/drawable-nodpi-v4/hot_15levelw2.png
+SHA1-Digest: ltsNzL7qznVRoQzJ9IsDM0otEQM=
+
+Name: res/drawable-nodpi-v4/warn_icon_26.png
+SHA1-Digest: 1EXXAzXfL0KU1uwEhgC7fPqn/hA=
+
+Name: res/drawable-nodpi-v4/img_canbus_sos.jpg
+SHA1-Digest: 3burjaZDvggDh04sYUfvX91Wd0Y=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level3.png
+SHA1-Digest: 4NcgB68P2oWwu4+H2n3QJR8O2Sw=
+
+Name: res/drawable-nodpi-v4/right_button3_del.png
+SHA1-Digest: QPoUGilol/QTE2r7Nto73fAeq4o=
+
+Name: res/drawable-nodpi-v4/right_button_bac_nor.9.png
+SHA1-Digest: zJYmPrb2BX0NrQcEkUnkv1OhhBU=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_14.png
+SHA1-Digest: TQ1x1CEDsyPdWv1ICNADTBPvsPo=
+
+Name: res/drawable-nodpi-v4/img_air_mode.png
+SHA1-Digest: cVH3y/m7h2EEL7Ty/1x4jPEJ5t0=
+
+Name: res/drawable-nodpi-v4/warn_icon_01.png
+SHA1-Digest: sGNUBFtgD8xvkI+SggbkgXAYBM0=
+
+Name: res/drawable-nodpi-v4/left_hot_level1.png
+SHA1-Digest: wD7eHaysEHeslwof6bKVXQQmPz4=
+
+Name: res/drawable-nodpi-v4/warn_icon_default.png
+SHA1-Digest: fG5vBZZFgHFLbtIlyueZ4Dc2mUA=
+
+Name: res/layout-1024x600/airlayout.xml
+SHA1-Digest: CYYwAQdDsluwsAUokydbFi/KWjE=
+
+Name: res/drawable-nodpi-v4/hot_6level1.png
+SHA1-Digest: YhHAO1TspjCSeMhqX7/ZnIKioNs=
+
+Name: res/drawable-nodpi-v4/warn_icon_32.png
+SHA1-Digest: 9HBQWtlFg41XSE+aaY7Fj626Wls=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_08.png
+SHA1-Digest: atPADlNOLb8UaWiAjoI2z0Ts5wE=
+
+Name: res/drawable/b7.xml
+SHA1-Digest: MPboc63haPUEVKWFenlquGfhcrA=
+
+Name: res/layout-1024x600/warning_view_dialog.xml
+SHA1-Digest: KITldV6RIzc1OU8bFfCT1eae9oU=
+
+Name: res/drawable-nodpi-v4/btn_left_pressed.png
+SHA1-Digest: h2D9xcVyBcFnca6e6gxMZVjofn4=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level8.png
+SHA1-Digest: kV7O39YwGmSLk9scW6/IRcGFrKM=
+
+Name: res/drawable-nodpi-v4/dd_3.png
+SHA1-Digest: AMOoKVFhM4cQugsRDkZJ7PcB9bM=
+
+Name: res/drawable-nodpi-v4/syncbtbar.png
+SHA1-Digest: 5ama3G+TMZjwhM6jnu7iELw6R2M=
+
+Name: res/drawable-nodpi-v4/line1.png
+SHA1-Digest: iKpmtwXlh+d9LTlAveYIkSL89iI=
+
+Name: res/drawable-nodpi-v4/music_ri_sel.png
+SHA1-Digest: mASWYhntrtyvxhLpFG4UH1dLAVk=
+
+Name: res/drawable-nodpi-v4/warn_icon_16.png
+SHA1-Digest: ygl/5zYOBP/FDt8B7hO3HT8y87o=
+
+Name: res/drawable-nodpi-v4/img_canbus_test_ru.jpg
+SHA1-Digest: cR0tP7oIh8BxBxF2FCk8AbMWgrI=
+
+Name: res/drawable-nodpi-v4/lf_signal.png
+SHA1-Digest: zk0QbGK6IVDzXhzTMCT6FtkUT8I=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_00.png
+SHA1-Digest: 56acHcSCmQfZQIn4ZNj/t9BwXhA=
+
+Name: res/drawable-nodpi-v4/img_air_sync.png
+SHA1-Digest: 8e7rAA7d8cWeJgOVvg+MnHQuGdo=
+
+Name: res/layout-1024x600/canbus62autopark.xml
+SHA1-Digest: +9aHi8uWACuau7GHnrIoMom5d9k=
+
+Name: res/drawable-nodpi-v4/hot_6level0.png
+SHA1-Digest: EfeT21Caq9boFEe2HFgDFWaNiJU=
+
+Name: res/drawable-nodpi-v4/rearlock1.png
+SHA1-Digest: rJIbV7pj+vAGovDbCRE1mJQXrUY=
+
+Name: res/drawable-nodpi-v4/number_bac_sel.png
+SHA1-Digest: exCmD4QyTN5LLSolNe1cSbF7yyE=
+
+Name: res/drawable-nodpi-v4/img_air_windleveldown.png
+SHA1-Digest: e4CTUUPD0OkQHEev8GihjN50fmA=
+
+Name: res/drawable-nodpi-v4/img_eco0.png
+SHA1-Digest: K/83lprNpkmuIs6Z9j+0h2KCef0=
+
+Name: res/drawable-nodpi-v4/img_air_normal.png
+SHA1-Digest: 5ZpJEWacoFnAtDv84VObpC+FYxI=
+
+Name: res/drawable-nodpi-v4/img_air_acmax.png
+SHA1-Digest: VmI9FjvUIvgXBYDQ4ec/7xAuNIc=
+
+Name: res/drawable-nodpi-v4/hot_15levelw7.png
+SHA1-Digest: aIXqnm7ooNaS7U5Chds3+4K9Lxo=
+
+Name: res/drawable-nodpi-v4/img_air_seathotleft2.png
+SHA1-Digest: VXWRmx4q6wOkcHf13JtLaL/qpx4=
+
+Name: res/drawable-nodpi-v4/car_0.png
+SHA1-Digest: XUl2vA5ofDMd1dM91h6u4cI+CSw=
+
+Name: res/drawable-nodpi-v4/dial_statutalking.png
+SHA1-Digest: 9l5aZG7KdtsNQTZfL29h/lTcHYQ=
+
+Name: res/drawable-nodpi-v4/warn_icon_11.png
+SHA1-Digest: sXcmf/zt04CWbNY2E339EpSaSj0=
+
+Name: res/drawable-nodpi-v4/ac0.png
+SHA1-Digest: 41l4g+SJvKYVPCnOScz9x1COrMM=
+
+Name: res/drawable-nodpi-v4/bg_am.png
+SHA1-Digest: 2inCukCAsLKsyzdkEs8/4xwYOR4=
+
+Name: res/drawable-nodpi-v4/middle_button12_sel.png
+SHA1-Digest: /WEQco5x+NN4R3sti8MO2nbfx6k=
+
+Name: res/drawable-nodpi-v4/hot_level1.png
+SHA1-Digest: Q7Qu7HaXySrDLQZSgYtggCL7+JE=
+
+Name: res/layout/canbus62autopark.xml
+SHA1-Digest: GUqDAMnLu7j645B1OxBIQGPw9K0=
+
+Name: res/drawable-nodpi-v4/right_hot_level3.png
+SHA1-Digest: rnR9cs4IyFGRgeoPoi4HsTBS9tQ=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_15.png
+SHA1-Digest: j1QYbsf2/4/MLVhpkizA8FaGHkA=
+
+Name: res/drawable-nodpi-v4/middle_button1_sel.png
+SHA1-Digest: M2NXuSGVF9za/UW06H1BMVyWT7Q=
+
+Name: res/drawable-nodpi-v4/rf_1.png
+SHA1-Digest: 4U68DN7s5KGg2/yOdo9Yt6aPABU=
+
+Name: res/drawable-nodpi-v4/bbb.png
+SHA1-Digest: YpjRKGxNfwQCq2LnVcEC5wMukvM=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_13.png
+SHA1-Digest: tuD7JmqOw44QeXBrYhJ7qQJ2IY0=
+
+Name: res/drawable-nodpi-v4/warn_icon_state_0.png
+SHA1-Digest: fG5vBZZFgHFLbtIlyueZ4Dc2mUA=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_05.png
+SHA1-Digest: j07mnSgkQdWmZH0hHlV5U2546Ik=
+
+Name: res/drawable-nodpi-v4/middle_button8.png
+SHA1-Digest: Is83WVZ3rw8+QkEBisiadj1XW9M=
+
+Name: res/drawable-nodpi-v4/img_air_wind.png
+SHA1-Digest: +rzUk6MVHqNTemmjTUnn8Lul+R4=
+
+Name: res/layout/dial.xml
+SHA1-Digest: NeYX79gBbQzCtGieX288Rb44CRs=
+
+Name: res/drawable-nodpi-v4/img_air_temp_down.png
+SHA1-Digest: Z73Mn8iOXMb5L0Su8ZvUAHhQAuw=
+
+Name: res/drawable-nodpi-v4/img_air_soft.png
+SHA1-Digest: UKwG8dt6+zK3my11NUGby4dKx8c=
+
+Name: res/drawable-nodpi-v4/wind_in1.png
+SHA1-Digest: TNHJZKMQ1+i5UGjgdMZD8Xa5oCM=
+
+Name: res/drawable/b11.xml
+SHA1-Digest: MhWZqmBc+8FWQ0+hzycJrs9A4wg=
+
+Name: res/layout/canbus20activity.xml
+SHA1-Digest: wM4cWRK7CkJM4yCUK5tUJB8as3o=
+
+Name: res/drawable-nodpi-v4/carbg.png
+SHA1-Digest: e93w4GhXdXDCQHyke4HgSak/xgs=
+
+Name: res/drawable-nodpi-v4/wind_out1.png
+SHA1-Digest: g37UQSxJJskN0Nxy+WfrR09iOj0=
+
+Name: res/drawable/radar_dis.xml
+SHA1-Digest: CrC/rg8qLt1iPh4Ih5UVKcEZqEk=
+
+Name: res/drawable-nodpi-v4/warn_icon_27.png
+SHA1-Digest: hmQpDDTguwQN4xwTmyaFZeB0Yn8=
+
+Name: res/drawable-nodpi-v4/arrow_top.png
+SHA1-Digest: UlwCi1UqEQ73TjkIKyCIiY3HgQY=
+
+Name: res/drawable-nodpi-v4/hot_level7.png
+SHA1-Digest: WtqTS138GJ6GuV3HwbFJb2tnHb4=
+
+Name: res/drawable-nodpi-v4/lr_0.png
+SHA1-Digest: dVhZzDmicmYLXCsd6PZcBZaFkj8=
+
+Name: res/drawable-nodpi-v4/dd_2.png
+SHA1-Digest: wfBeAR0IlbdDYbYuiJjnL/jyjvA=
+
+Name: res/drawable-nodpi-v4/hot_max.png
+SHA1-Digest: Z6loEdvF3L+leSMr+z5I/65zN2k=
+
+Name: res/layout-1024x600/radarlayout.xml
+SHA1-Digest: Kv4waqWvSaJXHHAflusi4OHsCEA=
+
+Name: res/drawable-nodpi-v4/warn_icon_15.png
+SHA1-Digest: Q2+448ActXiOTOp1H9WfB2jfnAU=
+
+Name: res/drawable-nodpi-v4/dial_statudialing.png
+SHA1-Digest: p+co50ZHMjUFGKQpc2HOSvkqRbM=
+
+Name: res/drawable-nodpi-v4/warn_icon_20.png
+SHA1-Digest: uWhIWdiH7lymVw6FgKPWNVAXI9M=
+
+Name: res/drawable-nodpi-v4/n_2.png
+SHA1-Digest: e6mjd8C6ceC+nGodtGBKSbV/C0E=
+
+Name: res/drawable-nodpi-v4/hot_8level5.png
+SHA1-Digest: 4vZoer/K7OvBTbZPwxBNgraPIoA=
+
+Name: res/drawable/phonestatus.xml
+SHA1-Digest: NJ/PDQzg484ZJQ63zLJaaQcsAqw=
+
+Name: res/drawable-nodpi-v4/hot_level0.png
+SHA1-Digest: neEQ4xtqMGg5ontwr+Y+Hq26fGU=
+
+Name: res/drawable-nodpi-v4/rectbtn.png
+SHA1-Digest: wSg2CP+Iv/CB2s9QB881cQgS15o=
+
+Name: res/drawable-nodpi-v4/img_air_windup.png
+SHA1-Digest: WWj/EvfOjF5PRmlGR2lExGYn9Tw=
+
+Name: res/drawable-nodpi-v4/n_5.png
+SHA1-Digest: RQG0yDYWN06CW7/d9an8NqiHLBE=
+
+Name: res/drawable/b2.xml
+SHA1-Digest: XEuAVfjilhs5c4l2gCsKwIhEyg4=
+
+Name: res/drawable-nodpi-v4/dd_9.png
+SHA1-Digest: Q6zvptg2LqRBol0o672jezYLu6Q=
+
+Name: res/drawable-nodpi-v4/right_button1_sel.png
+SHA1-Digest: GN+8fZ0sox+LuFBXaJlXjhAOQFU=
+
+Name: res/drawable-nodpi-v4/img_air_loop_aqs.png
+SHA1-Digest: guZ1xJC2bGKuynbTHs+Ny5oEH38=
+
+Name: res/drawable-nodpi-v4/img_air_loop_out.png
+SHA1-Digest: xLnT8xksLUPTCAtOkNCYaOjjLZE=
+
+Name: res/drawable-nodpi-v4/right_hot_level0.png
+SHA1-Digest: +FyNrDOr0uiZM9SEeky6Xav7kRw=
+
+Name: res/drawable-nodpi-v4/btn_round_normal.png
+SHA1-Digest: +YYyEjWfPUzYVyrkJ/jNPkxsXjI=
+
+Name: res/drawable-nodpi-v4/lo.png
+SHA1-Digest: pIvCjqw/dPOgzX4MeHemYBnO+nM=
+
+Name: res/drawable-nodpi-v4/hot_6level6.png
+SHA1-Digest: 3BWTMbRr2EprCM88/THAbBLKTfY=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: ZU9ZfDDWRtlgdFlvv8S7gRJzeAk=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level4.png
+SHA1-Digest: Ujk3abN2RCD2YE2oWBmZc+ZWklE=
+
+Name: res/drawable-nodpi-v4/warn_icon_08.png
+SHA1-Digest: MHxBxxotVMFPzTfLt1ymK0iEMtk=
+
+Name: res/drawable-nodpi-v4/rf_0.png
+SHA1-Digest: i8Pt5f8wjzBbja5p76B+o17LGbI=
+
+Name: res/drawable-nodpi-v4/left_hot_level0.png
+SHA1-Digest: arRF38iDpdUh7IgxTlEEGjAbUJ0=
+
+Name: res/drawable-nodpi-v4/arrow_down.png
+SHA1-Digest: vkjNCj38V+AtLPpXzMhHlnMypFI=
+
+Name: res/drawable-nodpi-v4/warn_icon_12.png
+SHA1-Digest: OQpg+Q9gIqBU7+64wmUWX7EckNI=
+
+Name: res/drawable-nodpi-v4/ac1.png
+SHA1-Digest: TRs0m1Mj3GBqNbchXRol9xV/47E=
+
+Name: res/drawable-nodpi-v4/img_air_rearlock.png
+SHA1-Digest: sX9nZIUDb2GN8x3tgjPYVsUDH9w=
+
+Name: res/drawable/b10.xml
+SHA1-Digest: JuqMOGN1nFG3jV30ND7ZXCXz1/s=
+
+Name: res/layout-1024x600/activity_main.xml
+SHA1-Digest: WZFtWV5TcKPDb+uyripP5eob+nk=
+
+Name: res/drawable/b9.xml
+SHA1-Digest: +keaqTlQjRERyMWLGaug8Y1fF58=
+
+Name: res/drawable-nodpi-v4/d_9.png
+SHA1-Digest: RUOHupiGPUji6yKMSjzjI6GtKhM=
+
+Name: res/drawable-nodpi-v4/img_air_winddown.png
+SHA1-Digest: 9pYmDLHv7y2gzD4QcZb2NI9wFQ8=
+
+Name: res/drawable-nodpi-v4/middle_button7.png
+SHA1-Digest: UKlC5SBcavbl4ZkmPTtRoJsOn/w=
+
+Name: res/drawable-nodpi-v4/middle_bg.9.png
+SHA1-Digest: R1zdGOAWQSejmAzKdUCtLgGNSWA=
+
+Name: res/drawable-nodpi-v4/img_air_bg_sel.9.png
+SHA1-Digest: M9IkYEJfQSzFL6KrM+rT/hE7wRk=
+
+Name: res/drawable-nodpi-v4/d_0.png
+SHA1-Digest: NNMRcLxgrSz5kWPVl8jIj8XKilY=
+
+Name: res/drawable-nodpi-v4/img_air_windrear.png
+SHA1-Digest: 9kYx0fx4145YehRLD7y35uw8TAw=
+
+Name: res/drawable-nodpi-v4/warning_bg.png
+SHA1-Digest: 3PkCbPuXHrcwX2QnF0Im1GpbF+c=
+
+Name: res/drawable-nodpi-v4/img_air_windmin.png
+SHA1-Digest: 31hDA86yo4ITVFQ4zKWSU80n9x4=
+
+Name: res/drawable-nodpi-v4/middle_button10.png
+SHA1-Digest: dYMyaP+1Zu4+1Mlyc8o44dhN+y4=
+
+Name: res/drawable-nodpi-v4/img_air_modedown.png
+SHA1-Digest: h22hiBUsTq0vCcIzpFTUNPYGn2Y=
+
+Name: res/drawable/right_btn_bac.xml
+SHA1-Digest: a8O6rOTRPjoGhXD8Xn0ptc7R8/c=
+
+Name: res/drawable-nodpi-v4/hot_8level6.png
+SHA1-Digest: OTNI96lbXvPaZTfEowMeCf93u6U=
+
+Name: res/drawable-nodpi-v4/wind_out0.png
+SHA1-Digest: NdryUk8fzLMUqmWeEbNm4FWxOT0=
+
+Name: res/drawable-nodpi-v4/lr_1.png
+SHA1-Digest: MK3ueaRYrhvT7IpZGwddf/kGq1w=
+
+Name: res/drawable-nodpi-v4/n_3.png
+SHA1-Digest: spFcDOcX0t+gLmAn3ohwwMeRwcw=
+
+Name: res/drawable-nodpi-v4/warn_icon_28.png
+SHA1-Digest: PQx7dg3Mbd+GU4DOeIinAhqqKNI=
+
+Name: res/drawable-nodpi-v4/warn_icon_state_1.png
+SHA1-Digest: XzZZQj7BgcOp6Pwj/mt56VCJQHo=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_06.png
+SHA1-Digest: xZh1dzrnWxCUVMRq9+9vL4y19Rg=
+
+Name: res/drawable-nodpi-v4/canbus62park_bg_12.png
+SHA1-Digest: PEVDixp0saA1TV45bpu23rptEOY=
+
+Name: res/drawable/b0.xml
+SHA1-Digest: pOw8hYLPDUD6X30GgAk1bPjx8l8=
+
+Name: res/drawable-nodpi-v4/wind_in0.png
+SHA1-Digest: 9btWskfW5b7Ql0V2nlfLAupZjQk=
+
+Name: res/drawable-nodpi-v4/c.png
+SHA1-Digest: MZXaJzPcw4L3rKR14/6mdUu5olY=
+
+Name: res/drawable/btn_left.xml
+SHA1-Digest: icOAetPAUG7D4gE8GsFcqQX2/r8=
+
+Name: res/layout-1024x600/canbus20activity.xml
+SHA1-Digest: VBBUO+4wJomOzoCConj4WHDzb9s=
+
+Name: res/layout/canbus10and15layout.xml
+SHA1-Digest: +o89iFP9vMAtyRLb+QOJUbRP41o=
+
+Name: res/drawable-nodpi-v4/ico_next.png
+SHA1-Digest: mNvTxoCiBFC2qPUxONXNsc8+jx0=
+
+Name: res/drawable-nodpi-v4/ri_signal.png
+SHA1-Digest: WHiC8KLF8P2uaXjxMoHhfXCYVB8=
+
+Name: res/drawable-nodpi-v4/big_fun.png
+SHA1-Digest: W7nDFaq6S7zt7Ji2EQuJUJ2pveA=
+
+Name: res/drawable-nodpi-v4/carbg_door.png
+SHA1-Digest: G5PYLlrbRKCZJrQbN+ZYAmSNrNE=
+
+Name: res/drawable-nodpi-v4/middle_button5_sel.png
+SHA1-Digest: +1HJ3KRb+f0FuXsRzzvSC6bNsuo=
+
+Name: res/drawable-nodpi-v4/warn_icon_13.png
+SHA1-Digest: Gr/9STMSJguoZYvzKSNIsErQMFI=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable-nodpi-v4/dd_1.png
+SHA1-Digest: mv916Hi1Tkf1L3wiazqMzuE3KQE=
+
+Name: res/drawable-nodpi-v4/right_hot_level1.png
+SHA1-Digest: AHKg/cpfQJxhtQ0b8NacmxZST6s=
+
+Name: res/layout-1024x600/dial.xml
+SHA1-Digest: 4b0SjMeh9F1wHlCTH3Kr4Fj5+qk=
+
+Name: res/drawable-nodpi-v4/img_auto1.png
+SHA1-Digest: QpynbI4t2Yhlph2CDDz+g+/dnCg=
+
+Name: res/drawable-nodpi-v4/n_4.png
+SHA1-Digest: SxDpS53iSC+aBhJIn5dyUfB4dSs=
+
+Name: res/drawable-nodpi-v4/right_button4_del.png
+SHA1-Digest: tVUr7tw/GE85T6cbeykrDXZI5VQ=
+
+Name: res/drawable-nodpi-v4/bottombar.png
+SHA1-Digest: Qu1zYstQLUfiKovV+oxuaerA9X0=
+
+Name: res/drawable/btn_canbus62_ok.xml
+SHA1-Digest: H42tFsyt3cOZmT2QvMRtt3g7/nE=
+
+Name: res/drawable-nodpi-v4/img_air_bg_nor.9.png
+SHA1-Digest: bKacxGxi5u5/GyZHP5/MkU8R1NM=
+
+Name: res/drawable-nodpi-v4/img_air_windfrontmax.png
+SHA1-Digest: Se8l8bzZx8gW/Jxu0t9FbqWoyTw=
+
+Name: res/drawable-nodpi-v4/n_s.png
+SHA1-Digest: mGZzF9qVpM9K2b6ASX/LUFWPjqI=
+
+Name: res/drawable-nodpi-v4/warn_icon_07.png
+SHA1-Digest: 5sWEPcoMTwdkIceup1+pU7U4xyc=
+
+Name: res/drawable-nodpi-v4/front.png
+SHA1-Digest: 78d+5RXJFyls7n7ZhKV/Jpkwnx4=
+
+Name: res/drawable-nodpi-v4/img_canbus_test_en.jpg
+SHA1-Digest: y1sZ1oPn1Gki7PVWvTS9LJU2AzA=
+
+Name: res/drawable-nodpi-v4/number_bac1.png
+SHA1-Digest: C0COWUwCViyikSORty3fN2RdF94=
+
+Name: res/drawable-nodpi-v4/fu.png
+SHA1-Digest: bfWL9V3iINa2/BpF7kHghVvPv3U=
+
+Name: res/drawable-nodpi-v4/hot_15levelw0.png
+SHA1-Digest: lT8UZXCrRkzJmheYYqxZMTMIs7s=
+
+Name: res/drawable-nodpi-v4/s_down.png
+SHA1-Digest: zeHzhT4FZprGnhohxictctKfTY4=
+
+Name: res/layout/radarlayout_display.xml
+SHA1-Digest: W2wghJYDRvE5RVVO+gvWu1I/zDc=
+
+Name: res/drawable-nodpi-v4/img_air_hot_level5.png
+SHA1-Digest: WXtvU7CSdLH8Tdhpd5ToPdGKggA=
+
+Name: res/drawable-nodpi-v4/img_air_seathotleft0.png
+SHA1-Digest: OhSVpna5Te7eHTFMFi0LD/BZaXs=
+
+Name: res/drawable-nodpi-v4/hot_15levelw9.png
+SHA1-Digest: j+lQ4FhMUyQZ5Hw5veZscPrtDUY=
+
+Name: classes.dex
+SHA1-Digest: BOFmUE+3H75AP+BtjYJdJhQtjiI=
+
+Name: res/drawable-nodpi-v4/hot_15level1p0.png
+SHA1-Digest: yW9TTOVZQ/zAjDohbu8kNm7WR+k=
+

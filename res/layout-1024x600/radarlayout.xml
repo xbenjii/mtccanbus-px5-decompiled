@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android.microntek.service" microntek:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" microntek:layout_width="match_parent" microntek:layout_height="match_parent">
+    <ImageView microntek:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" microntek:id="@r$id/carbg" microntek:background="@r$drawable/carbg" microntek:layout_width="UNKNOWN_DATA_0xc600" microntek:layout_height="UNKNOWN_DATA_0x1c200" microntek:layout_marginBottom="75px" microntek:scaleType="fitXY" />
+    <android.microntek.canbus.view.Cicleview microntek:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" microntek:id="@r$id/myview" microntek:layout_width="UNKNOWN_DATA_0xc600" microntek:layout_height="UNKNOWN_DATA_0x1c200" microntek:layout_marginBottom="75px" microntek:scaleType="fitXY" />
+</FrameLayout>

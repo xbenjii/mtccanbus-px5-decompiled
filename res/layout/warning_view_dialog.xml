@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent"
+    <FrameLayout android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:background="@r$drawable/warning_bg" android:layout_width="UNKNOWN_DATA_0x5af33321" android:layout_height="UNKNOWN_DATA_0x41999921">
+        <LinearLayout android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="vertical" android:layout_width="UNKNOWN_DATA_0x55599921" android:layout_height="wrap_content" android:layout_marginTop="5.3dp">
+            <ImageView android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@r$id/icon_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@r$drawable/warn_icon_default" />
+            <android.microntek.canbus.view.MyTextView android:textSize="17sp" android:textColor="0x106000b" android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@r$id/str_text" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <Button android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@r$id/btn_ok" android:background="@r$drawable/btn_canbus62_ok" android:layout_width="UNKNOWN_DATA_0x23c00021" android:layout_height="UNKNOWN_DATA_0xaa66621" android:layout_marginBottom="5.3dp" android:text="0x104000a" />
+        <ImageView android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@r$id/icon_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="11dp" android:layout_marginBottom="8dp" android:src="@r$drawable/warn_icon_state_0" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,10 @@
+package android.microntek.canbus.p001a;
+
+import android.content.Context;
+import android.microntek.canbus.CanBusServer;
+
+public class au extends bh {
+    public au(CanBusServer canBusServer, Context context) {
+        super(canBusServer, context);
+    }
+}

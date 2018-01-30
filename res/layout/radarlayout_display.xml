@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android.microntek.service" microntek:layout_gravity="top|bottom|center_vertical|fill_vertical|center|fill" microntek:layout_width="match_parent" microntek:layout_height="match_parent">
+    <ImageButton microntek:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" microntek:id="@r$id/radar_display" microntek:background="@r$drawable/radar_dis" microntek:layout_width="wrap_content" microntek:layout_height="wrap_content" microntek:scaleType="fitXY" />
+</FrameLayout>
